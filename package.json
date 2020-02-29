@@ -1,0 +1,28 @@
+{
+  "name": "Employee-Tracker-App",
+  "version": "1.0.0",
+  "description": "Application for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJKAZ/Employee-Tracker-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJKAZ/Employee-Tracker-App/issues"
+  },
+  "homepage": "https://github.com/RJKAZ/Employee-Tracker-App#readme",
+  "dependencies": {
+    "consola": "^2.11.3",
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "inquire": "^0.4.8",
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  }
+}
